@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobarjazzhuzz", "Foobarjaz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueWeek3", "QueueWeek3\QueueWeek3.csproj", "{FD27E7B8-1C14-4CF2-B0AC-E2DB2FFB5B1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListWeek3", "LinkedListWeek3\LinkedListWeek3.csproj", "{572A898A-E085-404F-8EAE-759BACA11306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{FD27E7B8-1C14-4CF2-B0AC-E2DB2FFB5B1B}.Release|x64.Build.0 = Release|Any CPU
 		{FD27E7B8-1C14-4CF2-B0AC-E2DB2FFB5B1B}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD27E7B8-1C14-4CF2-B0AC-E2DB2FFB5B1B}.Release|x86.Build.0 = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|x64.Build.0 = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Debug|x86.Build.0 = Debug|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|x64.ActiveCfg = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|x64.Build.0 = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|x86.ActiveCfg = Release|Any CPU
+		{572A898A-E085-404F-8EAE-759BACA11306}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
